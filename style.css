@@ -49,7 +49,7 @@ ul li a:active{
 /* All target */
 body{
     /* background-color: rgb(181, 255, 255); */
-       padding-bottom: 1000px;
+    /*   padding-bottom: 1000px;*/
        text-align: center;
 }
 
@@ -176,7 +176,7 @@ margin-left: 1.5rem;
 }
 
 .contact-me{
-    margin: 1rem;
+    margin: 1rem 1rem 3rem 1rem;
     background-color: blue;
     padding: 12px 24px;
     border: none;
