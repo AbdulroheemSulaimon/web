@@ -49,8 +49,8 @@ ul li a:active{
 /* All target */
 body{
     /* background-color: rgb(181, 255, 255); */
-    /* padding-bottom: 1000px; */
-    text-align: center;
+       padding-bottom: 1000px;
+       text-align: center;
 }
 
 *{
@@ -178,7 +178,7 @@ margin-left: 1.5rem;
 .contact-me{
     margin: 1rem;
     background-color: blue;
-    padding: 8px 16px;
+    padding: 12px 24px;
     border: none;
     border-radius: 10px;
     color: white;
